@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "tryingnew",
+    "slug": "tryingnew",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.akash_raj.tryingnew"
+    }
+  },
+  "name": "tryingnew"
+}
