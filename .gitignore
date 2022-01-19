@@ -4,6 +4,8 @@
 
 # Xcode
 #
+tocreatesha1fingerprint.txt
+Screens.zip
 build/
 *.pbxuser
 !default.pbxuser
