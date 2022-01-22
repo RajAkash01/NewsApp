@@ -4,8 +4,6 @@
 
 # Xcode
 #
-tocreatesha1fingerprint.txt
-Screens.zip
 build/
 *.pbxuser
 !default.pbxuser
@@ -55,3 +53,6 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+tocreatesha1fingerprint.txt
+Screens.zip

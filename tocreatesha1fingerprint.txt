@@ -1,9 +1,0 @@
-Note: you have to create a new keystore for every new app
-
-To create go to path:
- C:\Program Files\Java\jdk-11.0.11\bin then type 
-keytool -genkey -v -keystore debug.keystore -alias androiddebugkey -storepass android -keypass android -keyalg RSA -validity 10000
-and then create new sha1 fingerprint.
-
-To debug or to see it use this command:
-keytool -keystore debug.keystore -list -v
